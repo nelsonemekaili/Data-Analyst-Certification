@@ -19,4 +19,4 @@
 - Duration: 24.5 hours
 - Completion Date: March 7, 2026
 ## certificate
-![Data Analyst Certificate](udemy_certificate.png)
+![Data Analyst Certificate](udemy_certificate.jpg)
